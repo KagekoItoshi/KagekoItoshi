@@ -6,5 +6,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-C# and C++, Godot but I've also worked in Unity
+C# and C++, Godot but I've also worked in Unity \n 
 Also a beginner 3D Character artist and hard surface modeler
